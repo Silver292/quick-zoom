@@ -1,0 +1,17 @@
+{
+  "name": "Command Mouse Zoom",
+  "version": "1.0",
+  "description": "Enables browser zoom with cmd + mouse wheel",
+  "background": {
+    "scripts": ["background.js"],
+    "persistant": "false"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content_script.js"]
+    }
+  ],
+  "permissions": [],
+  "manifest_version": 2
+}
