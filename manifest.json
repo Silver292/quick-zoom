@@ -1,7 +1,7 @@
 {
-  "name": "Command Mouse Zoom",
+  "name": "Quick Zoom",
   "version": "1.0",
-  "description": "Enables browser zoom with cmd + mouse wheel",
+  "description": "Enables browser zoom with Cmd + mouse wheel",
   "background": {
     "scripts": ["background.js"],
     "persistant": "false"
@@ -13,5 +13,10 @@
     }
   ],
   "permissions": [],
+  "icons": {
+    "16": "logo_16.png",
+    "48": "logo_48.png",
+    "128": "logo_128.png"
+  },
   "manifest_version": 2
 }
