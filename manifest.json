@@ -1,6 +1,6 @@
 {
   "name": "Quick Zoom",
-  "version": "1.0",
+  "version": "1.0.1",
   "description": "Enables browser zoom with Cmd + mouse wheel",
   "background": {
     "scripts": ["background.js"],
