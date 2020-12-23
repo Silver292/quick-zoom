@@ -27,7 +27,9 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://user-images.githubusercontent.com/5542588/103013133-8d874300-4534-11eb-8445-552d54915020.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/5542588/103013133-8d874300-4534-11eb-8445-552d54915020.gif" alt="Quick Zoom Screenshot"/>
+</p>
 
 ## Key Feature
 
